@@ -1,5 +1,5 @@
 import ENG from "./eng";
-import UZ from "./UZ";
+import UZ from "./uz";
 
 const langueages = {
     uz: UZ,
